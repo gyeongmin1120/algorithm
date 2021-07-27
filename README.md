@@ -1,2 +1,2 @@
 # algorithm
-algorithm 개인 공부
+  1. bubble_sort
