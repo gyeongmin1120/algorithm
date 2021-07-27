@@ -1,6 +1,6 @@
 package algorithm;
 
-public class bubble_sort {
+public class bubbleSort {
 	public static void main(String[] args) {
 		// 변수 이름 : arr 6개의 방을 선언(인덱스 값 : 0~5)
 		int[] arr = new int[6];
