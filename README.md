@@ -1,2 +1,4 @@
 # algorithm
-  1. bubble_sort
+  1. bubbleSort
+  2. selectionSort
+  3. insertionSort
